@@ -1,5 +1,8 @@
 # Prerequisites
 *.d
+*.cmake
+*.log
+*.bin
 
 # Compiled Object files
 *.slo
@@ -37,3 +40,4 @@
 *.jpeg
 *.PNG
 *.png
+build/*
