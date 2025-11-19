@@ -121,6 +121,12 @@ The results are saved in `results/`:
 
 ---
 
+## License & Contact
+- See the repository for license details.
+- Author: [Pooya Nasiri](https://github.com/PooyaNasiri) | [Portfolio](https://pooyanasiri.github.io)
+  
+---
+
 ## 🗃️ Output Sample
 
 ```
